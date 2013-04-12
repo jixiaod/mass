@@ -1,0 +1,15 @@
+#!/usr/bin/env node
+/**
+* @file server
+* 
+* @brief  
+* Copyright(C) 2010-2015 Easescent.com, Inc. or its affiliates. All Rights Reserved.
+* 
+* @version $Id$
+* @author tiger, ji.toobe@gmail.com
+* @date 2013-04-12
+*/
+
+
+require(require('path').join(__dirname, "..", "lib", "server.js"))
+

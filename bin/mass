@@ -1,0 +1,12 @@
+#!/usr/bin/env node
+/**
+* @file mass
+*   
+* @version $Id$
+* @author tiger, ji.toobe@gmail.com
+* @date 2013-04-11
+*/
+require(require('path').join(__dirname, "..", "lib", "mass.js"))
+
+
+

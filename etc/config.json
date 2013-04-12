@@ -1,0 +1,28 @@
+{
+    "http" : {
+        "host" : "127.0.0.1",
+        "port" : "8124"
+    },
+
+    "svn" : {
+        "username" : "es_svn_sync",
+        "password" : "A27G5LUv6mNsJqyU"
+    },
+
+    "project" : {
+        "weibo" : {
+            "name" : "weibo",
+            "description" : "逸香网酒评",
+            "svn_url" : "svn://sms.eswine.com/weibo.eswine.com/trunk",
+            "work_copy" : "/opt/svn/weibo.eswine.com",
+            "web_path" : "/opt/web/weibo.eswine.com"
+            },
+        "ym" : {
+            "name" : "ym",
+            "description" : "企业通行证",
+            "svn_url" : "svn://sms.eswine.com/test/boughs/ym",
+            "work_copy" : "/opt/svn/test/ym",
+            "web_path"  : "/opt/web/test/ym"
+        }
+    }
+}
