@@ -16,13 +16,28 @@
             "name" : "weibo.eswine.com",
             "description" : "逸香网酒评",
             "svn_url" : "svn://sms.eswine.com/weibo.eswine.com/trunk",
-            "shared" : "config.php"
+            "shared" : "config.php "
             },
         "ym" : {
             "name" : "ym",
             "description" : "企业通行证test",
             "svn_url" : "svn://sms.eswine.com/test/boughs/ym",
-            "shared" : "config.php"
+            "shared" : "config.php moudle/conf moudle/conf1/1.php"
+        },
+        "lx" : {
+            "name" : "lx",
+            "description" : "企业通行证test",
+            "svn_url" : "svn://sms.eswine.com/test/boughs/ym",
+            "shared" : "1.php 2.php"
+        },
+
+        "expo" : {
+            "name" : "expo",
+            "description" : "逸香网商机",
+            "svn_url" : "svn://sms.eswine.com/wine.cn/boughs/expo",
+            "shared" : "Core/Conf Modules/Expo/Conf"
         }
+
+
     }
 }
