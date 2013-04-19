@@ -4,8 +4,8 @@
         "port" : "8124"
     },
     "svn" : {
-        "username" : "svnuser",
-        "password" : "svnpass"
+        "username" : "es_svn_sync",
+        "password" : "A27G5LUv6mNsJqyU"
     },
     "env" : {
         "svn_root" : "/opt/svn", 
@@ -24,6 +24,7 @@
             "svn_url" : "svn://svn_url/project2/trunk",
             "shared" : "config.php setting/setting.php"
             }
+
 
     }
 }
