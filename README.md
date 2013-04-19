@@ -5,7 +5,7 @@ If your have more than one project, mass will help you a lot.
 ##Configure file
 'svn.username' & 'svn.password' must be given to checkout and update svn working copy.
 
-Each project should assign a svn_url.
+Each project should assign a 'svn_url'.
 
 You can assign your project config file or config folders in 'shared', must be separated by space.
 
