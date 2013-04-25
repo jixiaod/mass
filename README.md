@@ -1,6 +1,6 @@
 #What is mass for
 Mass is a simple tool for deploying web evnrionment. In case you are using svn for repository. Mostly for testing evnrionment.
-If your have more than one project, mass will help you a lot.
+If your deployment have more than one project, mass will help a lot.
 
 ##Configure file
 'svn.username' & 'svn.password' must be given to checkout and update svn working copy.
