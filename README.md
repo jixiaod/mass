@@ -46,7 +46,7 @@ You can assign your project config file or config folders in 'shared', must be s
 ##How to deploy your project
         bin/mass deploy --project project1
         
-###Update your new configuration
+##Update your new configuration
         bin/mass share --project project1
         
 ##How to run mass server
@@ -54,12 +54,12 @@ You can assign your project config file or config folders in 'shared', must be s
 Now, by default, visit http://127.0.0.1:8124. You can see the project list that configed.
 Click to update the latest version.
 
-###To restart server
+##Restart server
         bin/server restart &
         
-###To stop server
+##Stop server
         bin/server stop &
         
     
-Have fun & good day.
+Have fun & a nice day.
 
