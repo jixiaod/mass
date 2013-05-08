@@ -56,8 +56,10 @@ Click to update the latest version.
 
 To restart server
         bin/server restart &
+        
 To stop server
         bin/server stop &
+        
     
 Have fun & good day.
 
